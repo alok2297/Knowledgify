@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.pangle.global:encryptor:0.0.9-rc.2-private@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/030ed22ac20811d219553136c6add6cf/transformed/jetified-encryptor-0.0.9-rc.2-private/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/030ed22ac20811d219553136c6add6cf/transformed/jetified-encryptor-0.0.9-rc.2-private/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/030ed22ac20811d219553136c6add6cf/transformed/jetified-encryptor-0.0.9-rc.2-private/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.applovin.mediation:google-adapter:21.2.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/25f480614c4dfb573d13c05a62988357/transformed/jetified-google-adapter-21.2.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/25f480614c4dfb573d13c05a62988357/transformed/jetified-google-adapter-21.2.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/25f480614c4dfb573d13c05a62988357/transformed/jetified-google-adapter-21.2.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.applovin.mediation/google-adapter/21.2.0.1/2b55573b0bfd8d5821024329bc916e0cc1511a32/google-adapter-21.2.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

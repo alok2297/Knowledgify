@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.inmobi.monetization:inmobi-ads:10.0.7@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/15cd012be1fcd564948f25414eb069c9/transformed/jetified-inmobi-ads-10.0.7/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/15cd012be1fcd564948f25414eb069c9/transformed/jetified-inmobi-ads-10.0.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/15cd012be1fcd564948f25414eb069c9/transformed/jetified-inmobi-ads-10.0.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/15cd012be1fcd564948f25414eb069c9/transformed/jetified-inmobi-ads-10.0.7/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

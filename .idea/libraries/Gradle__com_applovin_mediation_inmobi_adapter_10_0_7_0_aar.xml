@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.applovin.mediation:inmobi-adapter:10.0.7.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8a88e6481fe88cbd5597f8cb5a85f6dd/transformed/jetified-inmobi-adapter-10.0.7.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8a88e6481fe88cbd5597f8cb5a85f6dd/transformed/jetified-inmobi-adapter-10.0.7.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8a88e6481fe88cbd5597f8cb5a85f6dd/transformed/jetified-inmobi-adapter-10.0.7.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.applovin.mediation/inmobi-adapter/10.0.7.0/dca7db7d190a22d6c7426e2832c9ec31a572f4fb/inmobi-adapter-10.0.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

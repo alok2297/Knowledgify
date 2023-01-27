@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.fyber:marketplace-sdk:8.2.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c9b050175bff48ac2404625cbc83c39c/transformed/jetified-marketplace-sdk-8.2.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c9b050175bff48ac2404625cbc83c39c/transformed/jetified-marketplace-sdk-8.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c9b050175bff48ac2404625cbc83c39c/transformed/jetified-marketplace-sdk-8.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c9b050175bff48ac2404625cbc83c39c/transformed/jetified-marketplace-sdk-8.2.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fyber/marketplace-sdk/8.2.0/cf9341670ef28f25f9b1457d08813b82e916a09e/marketplace-sdk-8.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fyber/marketplace-sdk/8.2.0/de064c5f5bac4fe9423c77225cf869b782c75b39/marketplace-sdk-8.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

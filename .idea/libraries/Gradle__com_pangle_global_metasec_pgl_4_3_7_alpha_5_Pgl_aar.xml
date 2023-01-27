@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.pangle.global:metasec_pgl:4.3.7-alpha.5-Pgl@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2f191b05e7463edf928a231496f1a4b6/transformed/jetified-metasec_pgl-4.3.7-alpha.5-Pgl/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2f191b05e7463edf928a231496f1a4b6/transformed/jetified-metasec_pgl-4.3.7-alpha.5-Pgl/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2f191b05e7463edf928a231496f1a4b6/transformed/jetified-metasec_pgl-4.3.7-alpha.5-Pgl/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

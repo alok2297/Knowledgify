@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.yandex.android:mobileads:5.3.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/66e27da07ee4c62bb9b33162ec3cc649/transformed/jetified-mobileads-5.3.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/66e27da07ee4c62bb9b33162ec3cc649/transformed/jetified-mobileads-5.3.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/66e27da07ee4c62bb9b33162ec3cc649/transformed/jetified-mobileads-5.3.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/66e27da07ee4c62bb9b33162ec3cc649/transformed/jetified-mobileads-5.3.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yandex.android/mobileads/5.3.0/ebc82a8539a851c4e3514c4fe978520f400b4147/mobileads-5.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yandex.android/mobileads/5.3.0/992b9772cbd390c1926e0766199c445135eb9c1a/mobileads-5.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

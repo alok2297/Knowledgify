@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ironsource.adapters:vungleadapter:4.3.18@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/68eb2cd3d92d844cfedfe0c17ed04b13/transformed/jetified-vungleadapter-4.3.18/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/68eb2cd3d92d844cfedfe0c17ed04b13/transformed/jetified-vungleadapter-4.3.18/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/68eb2cd3d92d844cfedfe0c17ed04b13/transformed/jetified-vungleadapter-4.3.18/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

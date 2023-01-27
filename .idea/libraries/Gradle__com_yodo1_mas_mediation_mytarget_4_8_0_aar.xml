@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.yodo1.mas.mediation:mytarget:4.8.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/4b0e3c2677decf6c40d5e8ac18a5a7f3/transformed/jetified-mytarget-4.8.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4b0e3c2677decf6c40d5e8ac18a5a7f3/transformed/jetified-mytarget-4.8.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4b0e3c2677decf6c40d5e8ac18a5a7f3/transformed/jetified-mytarget-4.8.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yodo1.mas.mediation/mytarget/4.8.0/a97c49eec4b30c1e684bc9266155eed0ff2319ac/mytarget-4.8.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.ads.mediation:mytarget:5.15.4.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6d444e928f04ff8f03c5a4a97bf8b2bb/transformed/jetified-mytarget-5.15.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6d444e928f04ff8f03c5a4a97bf8b2bb/transformed/jetified-mytarget-5.15.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6d444e928f04ff8f03c5a4a97bf8b2bb/transformed/jetified-mytarget-5.15.4.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.ads.mediation/mytarget/5.15.4.0/b9c7d7c06601612c25ae9f6a515dafe9d13e9b08/mytarget-5.15.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

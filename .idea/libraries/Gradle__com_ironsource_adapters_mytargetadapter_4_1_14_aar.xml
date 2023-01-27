@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ironsource.adapters:mytargetadapter:4.1.14@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/730c91fcd6b2eb58bc4b84e83ec40b2e/transformed/jetified-mytargetadapter-4.1.14/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/730c91fcd6b2eb58bc4b84e83ec40b2e/transformed/jetified-mytargetadapter-4.1.14/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/730c91fcd6b2eb58bc4b84e83ec40b2e/transformed/jetified-mytargetadapter-4.1.14/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

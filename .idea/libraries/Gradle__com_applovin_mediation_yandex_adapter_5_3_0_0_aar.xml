@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.applovin.mediation:yandex-adapter:5.3.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/de6b3429dc626d9e80eab1945c363050/transformed/jetified-yandex-adapter-5.3.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/de6b3429dc626d9e80eab1945c363050/transformed/jetified-yandex-adapter-5.3.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/de6b3429dc626d9e80eab1945c363050/transformed/jetified-yandex-adapter-5.3.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.applovin.mediation/yandex-adapter/5.3.0.0/c7627c2df5049c7cf126272254d995805f455664/yandex-adapter-5.3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

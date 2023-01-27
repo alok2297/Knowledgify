@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/books"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorWhite"
+    tools:context=".Books">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <com.denzcoskun.imageslider.ImageSlider
+                android:id="@+id/slide"
+                android:layout_width="match_parent"
+                android:layout_height="234dp"
+                android:layout_margin="16dp"
+                app:iss_auto_cycle="true"
+                app:iss_corner_radius="16"
+                app:iss_delay="0"
+                app:iss_period="1500"
+                />
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/wholebtn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="16dp"
+                android:layout_marginBottom="10dp"
+                android:backgroundTint="#9AFFFFFF"
+                app:cardCornerRadius="10dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical">
+
+                    <ImageView
+                        android:id="@+id/img1"
+                        android:layout_width="40dp"
+                        android:layout_height="40dp"
+                        android:layout_marginStart="24dp"
+                        android:layout_marginTop="24dp"
+                        >
+<!--                        android:src="@drawable/pin"-->
+
+                    </ImageView>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_margin="8dp"
+                        android:layout_toRightOf="@id/img1"
+                        android:gravity="center_vertical">
+
+                        <TextView
+                            android:id="@+id/topic"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="16dp"
+                            android:layout_marginEnd="16dp"
+                            android:text="Title"
+                            android:textColor="@color/colorBlack"
+                            android:textSize="16dp"
+                            android:textStyle="bold">
+
+                        </TextView>
+
+                        <TextView
+                            android:id="@+id/subtopic"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/topic"
+                            android:layout_marginStart="16dp"
+                            android:layout_marginEnd="16dp"
+                            android:text="Subtopic"
+                            android:textSize="14sp">
+
+                        </TextView>
+
+                        <TextView
+                            android:id="@+id/click"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/subtopic"
+                            android:layout_marginStart="16dp"
+                            android:layout_marginEnd="16dp"
+                            android:layout_marginBottom="2dp"
+                            android:text="Click Here"
+                            android:textColor="#BC1F1F"
+                            android:textSize="12dp">
+
+                        </TextView>
+                    </RelativeLayout>
+                </RelativeLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <LinearLayout
+                android:id="@+id/lay1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/slide"
+                android:layout_marginStart="5dp"
+                android:layout_marginEnd="5dp"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/btn1"
+                    android:layout_width="200dp"
+                    android:layout_height="165dp"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginEnd="2.5dp"
+                    android:layout_weight="1"
+                    android:backgroundTint="#9AFFFFFF"
+               
+                android:paddingTop="20dp"
+                android:text="Mechanical Engg."
+                android:textAlignment="center"
+                android:textAllCaps="false"
+                android:textColor="#1266A8"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+                <!--                    android:background="@drawable/rounded_button1"-->
+                <!--                    android:drawableTop="@drawable/mech"-->
+
+                <Button
+                    android:id="@+id/btn2"
+                    android:layout_width="200dp"
+                    android:layout_height="165dp"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginEnd="10dp"
+                    android:layout_weight="1"
+                    android:backgroundTint="#9AFFFFFF"
+               
+                android:paddingTop="20dp"
+                android:text="Electrical Engg."
+                android:textAlignment="center"
+                android:textAllCaps="false"
+                android:textColor="#1266A8"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+                <!--                    android:background="@drawable/rounded_button1"-->
+                <!--                    android:drawableTop="@drawable/electric"-->
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="7dp"
+                android:layout_marginEnd="5dp"
+                android:layout_weight="1"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/btn5"
+                    android:layout_width="164dp"
+                    android:layout_height="165dp"
+                    android:layout_marginStart="4dp"
+                    android:layout_marginEnd="10dp"
+                    android:layout_weight="1"
+                    android:backgroundTint="#9AFFFFFF"
+                   
+                android:paddingTop="28dp"
+                android:text="Previous Year Paper"
+                android:textAlignment="center"
+                android:textAllCaps="false"
+                android:textColor="#1266A8"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            </LinearLayout>
+            <!--                    android:background="@drawable/rounded_button1"-->
+            <!--                    android:drawableTop="@drawable/quiz"-->
+
+            <LinearLayout
+                android:id="@+id/lay2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@+id/lay1"
+                android:layout_centerInParent="true"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="7dp"
+                android:layout_marginEnd="5dp"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/btn3"
+                    android:layout_width="164dp"
+                    android:layout_height="165dp"
+                    android:layout_marginStart="10dp"
+                    android:layout_weight="1"
+                    android:backgroundTint="#9AFFFFFF"
+                   
+                    android:paddingTop="20dp"
+                    android:text="Civil Engg."
+                    android:textAlignment="center"
+                    android:textAllCaps="false"
+                    android:textColor="#1266A8"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+                <!--                    android:background="@drawable/rounded_button1"-->
+                <!--                    android:drawableTop="@drawable/civil"-->
+
+                <Button
+                    android:id="@+id/btn4"
+                    android:layout_width="164dp"
+                    android:layout_height="165dp"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_weight="1"
+                    android:backgroundTint="#9AFFFFFF"
+                   
+                android:paddingTop="20dp"
+                android:text="Syllabus"
+                android:textAlignment="center"
+                android:textAllCaps="false"
+                android:textColor="#1266A8"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+                <!--                    android:background="@drawable/rounded_button1"-->
+                <!--                    android:drawableTop="@drawable/syllabus"-->
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</FrameLayout>

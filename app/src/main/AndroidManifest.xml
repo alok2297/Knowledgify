@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.gap.mobigpk1">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <queries>
+        <intent>
+            <action android:name="com.google.android.youtube.api.service.START" />
+        </intent>
+    </queries>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:exported="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:screenOrientation="portrait"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".About"
+            android:exported="false" />
+        <activity
+            android:name=".PDFViewer"
+            android:exported="false" />
+        <activity
+            android:name=".ForgetPassword"
+            android:exported="false"
+            android:theme="@style/AppThemeLogin" />
+        <activity
+            android:name=".NotesList"
+            android:exported="false" />
+        <activity
+            android:name=".BooksInside"
+            android:exported="false" /> <!-- <activity -->
+        <!-- android:name=".Test" -->
+        <!-- android:exported="false" /> -->
+        <activity
+            android:name=".VideoLectures"
+            android:exported="false" />
+        <activity
+            android:name=".Profile"
+            android:exported="false" />
+        <activity
+            android:name=".nNotification"
+            android:exported="false" />
+        <activity
+            android:name=".ImageViewFull"
+            android:exported="false" />
+        <activity
+            android:name=".Comment"
+            android:exported="false" />
+        <activity
+            android:name=".Photo"
+            android:exported="false" />
+        <activity
+            android:name=".CreatePoll"
+            android:exported="false" />
+        <activity
+            android:name=".DM"
+            android:exported="false" />
+        <activity
+            android:name=".AddPost"
+            android:exported="false"
+            android:theme="@style/AppThemeNoActionBar" />
+        <activity
+            android:name=".CreateAccount"
+            android:exported="false"
+            android:theme="@style/AppThemeLogin" />
+        <activity
+            android:name=".ProfileActivity"
+            android:exported="false"
+            android:theme="@style/AppThemeNoActionBar" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false"
+            android:theme="@style/AppThemeLogin" />
+        <activity
+            android:name=".Messaging"
+            android:exported="false" />
+        <activity
+            android:name=".WebViewNV"
+            android:exported="false" />
+        <activity
+            android:name=".firebaseview"
+            android:exported="false"
+            android:screenOrientation="portrait" /> <!-- <activity -->
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:screenOrientation="portrait" /> <!-- <activity android:name=".civ12" /> -->
+        <activity
+            android:name=".StartActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.App.Starting"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <service android:name=".NotifyFirebaseMessagingService"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_icon"
+            android:resource="@drawable/icon" />
+        <!--
+ Set color used with incoming notification messages. This is used when no color is set for the incoming
+             notification message. See README(https://goo.gl/6BKBk7) for more.
+        -->
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_color"
+            android:resource="@color/colorAccent" />
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-5333220833779174~8168700291" />
+    </application>
+
+</manifest>

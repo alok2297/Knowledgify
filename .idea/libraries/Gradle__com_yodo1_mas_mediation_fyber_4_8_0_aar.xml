@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.yodo1.mas.mediation:fyber:4.8.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8262c254f93987d35443fd9795c800a8/transformed/jetified-fyber-4.8.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8262c254f93987d35443fd9795c800a8/transformed/jetified-fyber-4.8.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8262c254f93987d35443fd9795c800a8/transformed/jetified-fyber-4.8.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yodo1.mas.mediation/fyber/4.8.0/3c21745b55a5272aea0b2b0e77591cc6aa1c6e65/fyber-4.8.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

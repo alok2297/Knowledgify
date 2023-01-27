@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/colorForLogin</color>
+    <color name="colorPrimaryDark">#0099ff</color>
+    <color name="colorAccent">@color/colorForLogin</color>
+    <color name="colorGray">#CDCDCD</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorRed">#D63D3D</color>
+    <color name="colorGreen">#68D63D</color>
+    <color name="colorForLogin">#0099ff</color>
+    <color name="colorLoginDark">#0099ff</color>
+
+</resources>

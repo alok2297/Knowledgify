@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.applovin.mediation:bytedance-adapter:4.7.0.5.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/0c8b5272790d2dce755a6de0ebd5a5a4/transformed/jetified-bytedance-adapter-4.7.0.5.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0c8b5272790d2dce755a6de0ebd5a5a4/transformed/jetified-bytedance-adapter-4.7.0.5.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0c8b5272790d2dce755a6de0ebd5a5a4/transformed/jetified-bytedance-adapter-4.7.0.5.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.applovin.mediation/bytedance-adapter/4.7.0.5.0/bfe00c6ed3388774bde800bf108f9757b8f61bf6/bytedance-adapter-4.7.0.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

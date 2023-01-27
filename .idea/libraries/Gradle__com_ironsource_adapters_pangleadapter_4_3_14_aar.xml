@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ironsource.adapters:pangleadapter:4.3.14@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/08fb6004c445b1356fe3cc6b0392ceea/transformed/jetified-pangleadapter-4.3.14/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/08fb6004c445b1356fe3cc6b0392ceea/transformed/jetified-pangleadapter-4.3.14/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/08fb6004c445b1356fe3cc6b0392ceea/transformed/jetified-pangleadapter-4.3.14/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

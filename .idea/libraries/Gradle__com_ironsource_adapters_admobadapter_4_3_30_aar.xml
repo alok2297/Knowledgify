@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ironsource.adapters:admobadapter:4.3.30@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/3074f65e3d097503502dd626f237ba85/transformed/jetified-admobadapter-4.3.30/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3074f65e3d097503502dd626f237ba85/transformed/jetified-admobadapter-4.3.30/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3074f65e3d097503502dd626f237ba85/transformed/jetified-admobadapter-4.3.30/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

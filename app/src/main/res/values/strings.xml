@@ -1,0 +1,139 @@
+<resources>
+    <string name="app_name">Knowledgify</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="terms">I have read and agreed to the&lt;br&gt;&lt;u&gt;Terms and Conditions&lt;/u&gt;.</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ad_unit_id">ca-app-pub-6713347518830764/8593233632</string>
+    <string name="atomic_structure">atomic structure</string>
+    <string name="maths_1_a">MATHS 1(A)</string>
+    <string name="chemistry">CHEMISTRY</string>
+    <string name="physics">PHYSICS</string>
+    <string name="engineering_drawing">ENGINEERING DRAWING</string>
+    <string name="communication_skill">COMMUNICATION SKILL</string>
+    <string name="b_i_t">B.I.T</string>
+    <string name="workshop">WORKSHOP</string>
+    <string name="periodic_table">periodic table</string>
+    <string name="chemical_bonding">chemical bonding</string>
+    <string name="state_of_matter">state of matter</string>
+    <string name="fuels_amp_lubricants"><![CDATA[fuels & lubricants]]></string>
+    <string name="water">water</string>
+    <string name="electrochemistry">electrochemistry</string>
+    <string name="corrosion_amp_its_control"><![CDATA[corrosion & its control]]></string>
+    <string name="organic_compound_nomenclature">organic compound-Nomenclature</string>
+    <string name="polymers">polymers</string>
+    <string name="practical_chemistry">practical chemistry</string>
+    <string name="viva_voce">viva voce</string>
+    <string name="sample_paper">sample paper</string>
+    <string name="units_amp_dimensions"><![CDATA[units & Dimensions]]></string>
+    <string name="force_amp_motion"><![CDATA[force & Motion]]></string>
+    <string name="work_power_amp_energy"><![CDATA[work, power & energy]]></string>
+    <string name="rotational_motion">rotational motion</string>
+    <string name="motion_of_planets_amp_satellites"><![CDATA[motion of planets & satellites]]></string>
+    <string name="properties_of_matter">properties of matter</string>
+    <string name="heat_amp_thermodynamics"><![CDATA[heat & thermodynamics]]></string>
+    <string name="practical">practical</string>
+    <string name="introduction_to_information_technology">introduction to information technology</string>
+    <string name="input_devices">input devices</string>
+    <string name="computer_number_system">computer:Number system</string>
+    <string name="computer_network">computer network</string>
+    <string name="memory">memory</string>
+    <string name="mobile_computing">mobile computing</string>
+    <string name="top_100_questions">top 100 Questions</string>
+    <string name="general_introduction">general Introduction</string>
+    <string name="smithy_shop">smithy shop</string>
+    <string name="foundry_work">foundry work</string>
+    <string name="fitting_plumbing_and_fastening_shop">fitting plumbing and fastening shop</string>
+    <string name="sheet_metal_and_soldering_shop">sheet metal and soldering shop</string>
+    <string name="painting_and_polishing_shop">painting and polishing shop</string>
+    <string name="carpentry_shop">carpentry shop</string>
+    <string name="welding_shop">welding shop</string>
+    <string name="machine_shop">machine shop</string>
+    <string name="project_work">project work</string>
+    <string name="electrical_shop">electrical shop</string>
+    <string name="mesan_shop">mesan shop</string>
+    <string name="progressions">progressions</string>
+    <string name="binomial_theorem">binomial theorem</string>
+    <string name="detarminants">detarminants</string>
+    <string name="vector_algebra">vector algebra</string>
+    <string name="complex_number_de_moivre_s_theorem">complex number,de moivre\'s theorem</string>
+    <string name="relation_btw_sides_and_angle_of_triangle">relation btw sides and angle of triangle</string>
+    <string name="inverse_circular_fun_and_hyperbolic_fun">inverse circular fun. and hyperbolic fun.</string>
+    <string name="functions_limit_and_continuity">functions,limit and continuity</string>
+    <string name="differentiation">differentiation</string>
+    <string name="higher_order_derivatives">higher order derivatives</string>
+    <string name="tangent_and_normals">tangent and normals</string>
+    <string name="maxima_and_minima">maxima and minima</string>
+    <string name="application_of_differentiation">application of differentiation</string>
+    <string name="intro_to_engg_drawing_and_lines">intro. to engg. drawing and lines</string>
+    <string name="simple_geometrical_constructions">simple geometrical constructions</string>
+    <string name="dimensioning">dimensioning</string>
+    <string name="scales">scales</string>
+    <string name="orthographic_projection">orthographic projection</string>
+    <string name="projections_of_points">projections of points</string>
+    <string name="projections_of_straight_lines">projections of straight lines</string>
+    <string name="projections_of_planes">projections of planes</string>
+    <string name="identification_of_surfaces">identification of surfaces</string>
+    <string name="projections_of_solid">projections of solid</string>
+    <string name="sectional_views_of_object">sectional views of object</string>
+    <string name="isometric_projection">isometric projection</string>
+    <string name="symbols_and_conventions">symbols and conventions</string>
+    <string name="autocad">autocad</string>
+    <string name="basics_of_communication">basics of communication</string>
+    <string name="application_of_grammer">application of grammer</string>
+    <string name="reding_skill">reding skill</string>
+    <string name="writing_skill">writing skill</string>
+    <string name="model_paper">model paper</string>
+    <string name="integration">Integration</string>
+    <string name="integration_by_substitution">Integration by substitution</string>
+    <string name="integration_by_parts">integration by parts</string>
+    <string name="integration_by_partial_functions">integration by partial functions</string>
+    <string name="some_specific_integrals">some specific integrals</string>
+    <string name="definite_integration">definite integration</string>
+    <string name="mean_value">mean value</string>
+    <string name="OPEN">open</string>
+    <string name="CLOSE">close</string>
+    <string name="notification">key=AAAAp9n760Y:APA91bG7jkeLdXr0XYBhipOIGedRyJ0CnGg5wYg1DWhOHZQ0k9KMViBAG7r-zhqR9b3iQcQz_u17Gw3Ai6ujCVps3J5q0wH6u95wgjgqJMRiav1HQb7gjbymuF-4QabaVpUP-G1yEsHD</string>
+    <string name="yt_APIKEY">AIzaSyBw2Xvus55CWlFRb4aSBeA24AIW8cfC9Gs</string>
+    <string name="about">
+        &lt;h5&gt;&lt;strong&gt;Connect with us and grow your knowledge.&lt;/h5&gt;&lt;/strong&gt;Are you not good in studies or your basics are not Strong? Don\'t worry here we are to solve your problems, you can understand the topics in an efficient manner and if you have any doubts, so there is a platform where you can find post your doubts and get the solutions.With s Simple and clean user Interface and exciting features, our app is the helpful for the students across the country.Why one should with us? want to know what you will get🤔?
+    &lt;br&gt;&lt;strong&gt;&lt;h3&gt;Course material&lt;/h3&gt;&lt;/strong&gt;
+        - Get access the notes and books that will help you to clear the exams.&lt;br&gt;
+       - Regularly updated content.&lt;strong&gt;&lt;h3&gt;🙋‍♂Post the doubt in the community&lt;/h3&gt;&lt;/strong&gt;
+      - If you have any doubt then you can post the question and knowledgify community will help you.&lt;br&gt;
+      - Help others and create a good enviroment of study.&lt;br&gt;&lt;br&gt;
+    &lt;strong&gt;&lt;h3&gt;Video lectures&lt;/h3&gt;&lt;/strong&gt;
+
+  - We are providing the lectures for every subject from scratch as we know that every single topic is important for you.&lt;br&gt;
+  - We have arranged the videos in the right manner.&lt;br&gt;&lt;br&gt;
+    &lt;strong&gt;&lt;h3&gt;One Night Fight&lt;br&gt;&lt;/h3&gt;&lt;/strong&gt;
+
+  - We provide a video lecture for quick revision which is less than 3 hours.&lt;br&gt;
+    &lt;strong&gt;&lt;h3&gt;Reminder and Notification for updates&lt;br&gt;&lt;/h3&gt;&lt;/strong&gt;
+
+  - Get notification about courses and lectures.&lt;br&gt;
+  - Get every important update by the notification.&lt;br&gt;&lt;br&gt;
+    &lt;strong&gt;&lt;h3&gt;Highlights&lt;br&gt;&lt;/h3&gt;&lt;/strong&gt;
+
+  - Any important news related to studies like exam date, scholarship form &amp; job opportunities will be updated here.&lt;br&gt;&lt;br&gt;
+    &lt;strong&gt;&lt;h3&gt;Spam&lt;br&gt;&lt;/h3&gt;&lt;/strong&gt;
+
+  - If you found any post inappropriate, you can report the post.&lt;br&gt;&lt;br&gt;
+    &lt;strong&gt;&lt;h3&gt;🔐Safe and Secure&lt;br&gt;&lt;/h3&gt;&lt;/strong&gt;
+
+  - Safety of your data is important i.e phone number, email address etc is utmost important.&lt;br&gt;
+  - We never use students\' data for any kind of advertisement.&lt;br&gt;&lt;br&gt;
+        &lt;strong&gt;&lt;h3&gt;Welcome to our Knowledgify community.&lt;br&gt;&lt;/h3&gt;&lt;/strong&gt;
+
+        Ab padhai aur exams honge aur bhi easy with Knowledgify.&lt;br&gt;
+
+        &lt;strong&gt;&lt;h3&gt;🚀 iDeveloper&lt;/h3&gt;&lt;/strong&gt;
+    </string>
+    <string name="suport_knowledgify_gmail_com">suport.knowledgify@gmail.com</string>
+    <!--    ca-app-pub-4838993672643383/2747662979-->
+    <string-array name="profession">
+        <item>Profession</item>
+        <item>Student</item>
+        <item>Teacher</item>
+    </string-array>
+</resources>
