@@ -1,12 +1,11 @@
 <component name="libraryTable">
-  <library name="Gradle: com.google.ads.mediation:tapjoy:12.10.0.1@aar">
+  <library name="Gradle: com.google.ads.mediation:tapjoy:12.10.0.1@aar" external-system-id="GRADLE">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5cc6508271668e67f49323e218ca57f8/transformed/jetified-tapjoy-12.10.0.1/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/4d18826652b7c4f62af40480dfc5ac1c/transformed/jetified-tapjoy-12.10.0.1/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5cc6508271668e67f49323e218ca57f8/transformed/jetified-tapjoy-12.10.0.1/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5cc6508271668e67f49323e218ca57f8/transformed/jetified-tapjoy-12.10.0.1/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5cc6508271668e67f49323e218ca57f8/transformed/jetified-tapjoy-12.10.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4d18826652b7c4f62af40480dfc5ac1c/transformed/jetified-tapjoy-12.10.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/4d18826652b7c4f62af40480dfc5ac1c/transformed/jetified-tapjoy-12.10.0.1/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

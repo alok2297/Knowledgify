@@ -1,9 +1,9 @@
 <component name="libraryTable">
-  <library name="Gradle: com.yodo1.mas.mediation:yodo1:4.8.0@aar">
+  <library name="Gradle: com.yodo1.mas.mediation:yodo1:4.8.0@aar" external-system-id="GRADLE">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/17e3a8bd66e661ff76dc8a9afef7a20f/transformed/jetified-yodo1-4.8.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/17e3a8bd66e661ff76dc8a9afef7a20f/transformed/jetified-yodo1-4.8.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/17e3a8bd66e661ff76dc8a9afef7a20f/transformed/jetified-yodo1-4.8.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6f635ae204bde45394f3e232c2f78ee5/transformed/jetified-yodo1-4.8.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6f635ae204bde45394f3e232c2f78ee5/transformed/jetified-yodo1-4.8.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6f635ae204bde45394f3e232c2f78ee5/transformed/jetified-yodo1-4.8.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

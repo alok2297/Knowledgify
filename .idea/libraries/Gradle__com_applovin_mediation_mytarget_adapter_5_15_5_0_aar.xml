@@ -1,9 +1,8 @@
 <component name="libraryTable">
-  <library name="Gradle: com.applovin.mediation:mytarget-adapter:5.15.5.0@aar">
+  <library name="Gradle: com.applovin.mediation:mytarget-adapter:5.15.5.0@aar" external-system-id="GRADLE">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/0bd39cacf74ac4216afa20399105d047/transformed/jetified-mytarget-adapter-5.15.5.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0bd39cacf74ac4216afa20399105d047/transformed/jetified-mytarget-adapter-5.15.5.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0bd39cacf74ac4216afa20399105d047/transformed/jetified-mytarget-adapter-5.15.5.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/88353eab6a880c72cf881ec0d72a9506/transformed/jetified-mytarget-adapter-5.15.5.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/88353eab6a880c72cf881ec0d72a9506/transformed/jetified-mytarget-adapter-5.15.5.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

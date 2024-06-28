@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Gradle: com.github.anrwatchdog:anrwatchdog:1.4.0">
+  <library name="Gradle: com.github.anrwatchdog:anrwatchdog:1.4.0" external-system-id="GRADLE">
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.anrwatchdog/anrwatchdog/1.4.0/3c6da7b384c0be770f07028d7bef5d8fa6f1371b/anrwatchdog-1.4.0.jar!/" />
     </CLASSES>

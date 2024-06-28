@@ -1,9 +1,9 @@
 <component name="libraryTable">
-  <library name="Gradle: com.pangle.global:metasec_pgl:4.3.7-alpha.5-Pgl@aar">
+  <library name="Gradle: com.pangle.global:metasec_pgl:4.3.7-alpha.5-Pgl@aar" external-system-id="GRADLE">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2f191b05e7463edf928a231496f1a4b6/transformed/jetified-metasec_pgl-4.3.7-alpha.5-Pgl/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2f191b05e7463edf928a231496f1a4b6/transformed/jetified-metasec_pgl-4.3.7-alpha.5-Pgl/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2f191b05e7463edf928a231496f1a4b6/transformed/jetified-metasec_pgl-4.3.7-alpha.5-Pgl/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/56a440f8494830ced1a4822e38818dbf/transformed/jetified-metasec_pgl-4.3.7-alpha.5-Pgl/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/56a440f8494830ced1a4822e38818dbf/transformed/jetified-metasec_pgl-4.3.7-alpha.5-Pgl/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/56a440f8494830ced1a4822e38818dbf/transformed/jetified-metasec_pgl-4.3.7-alpha.5-Pgl/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

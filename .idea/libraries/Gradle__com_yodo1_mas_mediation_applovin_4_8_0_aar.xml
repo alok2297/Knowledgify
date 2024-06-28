@@ -1,9 +1,8 @@
 <component name="libraryTable">
-  <library name="Gradle: com.yodo1.mas.mediation:applovin:4.8.0@aar">
+  <library name="Gradle: com.yodo1.mas.mediation:applovin:4.8.0@aar" external-system-id="GRADLE">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e3ce3c546d25e54ecb770cd759548616/transformed/jetified-applovin-4.8.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e3ce3c546d25e54ecb770cd759548616/transformed/jetified-applovin-4.8.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e3ce3c546d25e54ecb770cd759548616/transformed/jetified-applovin-4.8.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/28b2ef066057ef06d985b6ad5f732c04/transformed/jetified-applovin-4.8.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/28b2ef066057ef06d985b6ad5f732c04/transformed/jetified-applovin-4.8.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

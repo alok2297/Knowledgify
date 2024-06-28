@@ -4,25 +4,22 @@
     <facet type="android" name="Android">
       <configuration>
         <option name="SELECTED_BUILD_VARIANT" value="debug" />
-        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
-        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
-        <afterSyncTasks>
-          <task>generateDebugSources</task>
-        </afterSyncTasks>
         <option name="ALLOW_USER_CONFIGURATION" value="false" />
         <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
         <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
-        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../app/src/main/res;file://$MODULE_DIR$/../../../app/src/debug/res;file://$MODULE_DIR$/../../../app/build/generated/res/google-services/debug;file://$MODULE_DIR$/../../../app/build/generated/res/rs/debug" />
-        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../app/src/androidTest/res;file://$MODULE_DIR$/../../../app/src/androidTestDebug/res;file://$MODULE_DIR$/../../../app/build/generated/res/rs/androidTest/debug" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../app/src/androidTest/res;file://$MODULE_DIR$/../../../app/src/androidTestDebug/res;file://$MODULE_DIR$/../../../app/build/generated/res/rs/androidTest/debug;file://$MODULE_DIR$/../../../app/build/generated/res/resValues/androidTest/debug" />
         <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
       </configuration>
     </facet>
   </component>
-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="true">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output-test url="file://$MODULE_DIR$/../../../app/build/intermediates/javac/debugAndroidTest/classes" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../app/build/generated/aidl_source_output_dir/debugAndroidTest/out" />
     <content url="file://$MODULE_DIR$/../../../app/build/generated/ap_generated_sources/debugAndroidTest/out" />
     <content url="file://$MODULE_DIR$/../../../app/build/generated/renderscript_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/res/resValues/androidTest/debug" />
     <content url="file://$MODULE_DIR$/../../../app/build/generated/res/rs/androidTest/debug" />
     <content url="file://$MODULE_DIR$/../../../app/build/generated/source/buildConfig/androidTest/debug" />
     <content url="file://$MODULE_DIR$/../../../app/src/androidTest">
@@ -31,33 +28,7 @@
     <content url="file://$MODULE_DIR$/../../../app/src/androidTestDebug" />
     <orderEntry type="jdk" jdkName="Android API 31 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="TEST" name="Gradle: C./Users/AS/AndroidStudioProjects/MObi GPK1 (1)/MObiGPK1/app/libs/YouTubeAndroidPlayerApi.jar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: junit:junit:4.12" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-integration:1.3" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-library:1.3" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.collection:collection:1.1.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-common:2.3.1" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.arch.core:core-common:2.1.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.annotation:annotation:1.3.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.squareup:javawriter:2.1.1" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: javax.inject:javax.inject:1" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.google.code.findbugs:jsr305:2.0.1" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.google.guava:guava:31.0.1-android" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-annotations:16.0.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.squareup.okhttp3:okhttp:4.10.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.squareup.okio:okio-jvm:3.0.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.31" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.5.31" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.6.20" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.6.20" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.github.bumptech.glide:disklrucache:4.13.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.github.bumptech.glide:annotations:4.13.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.google.code.gson:gson:2.8.6" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.github.anrwatchdog:anrwatchdog:1.4.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.google.guava:failureaccess:1.0.1" level="project" />
+    <orderEntry type="module" module-name="MObi_GPK1.app.main" scope="TEST" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.test.ext:junit:1.1.2@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.test.espresso:espresso-core:3.3.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.test:runner:1.3.0@aar" level="project" />
@@ -79,16 +50,27 @@
     <orderEntry type="library" scope="TEST" name="Gradle: com.github.barteksc:android-pdf-viewer:2.8.2@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.github.barteksc:pdfium-android:1.7.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.legacy:legacy-support-v4:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.legacy:legacy-support-core-ui:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.appcompat:appcompat-resources:1.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.drawerlayout:drawerlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.dynamicanimation:dynamicanimation:1.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-messaging:20.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-iid:20.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-stats:17.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.legacy:legacy-support-core-utils:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.transition:transition:1.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.github.bumptech.glide:glide:4.13.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.vectordrawable:vectordrawable-animated:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.vectordrawable:vectordrawable:1.1.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-auth:21.0.7@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-auth:19.0.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.github.bumptech.glide:glide:4.13.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-appcheck-interop:16.0.0-beta04@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-database-collection:18.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-auth-api-phone:17.4.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-safetynet:17.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-auth-base:17.0.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-iid:20.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-iid-interop:17.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.yodo1.mas.mediation:admob:4.8.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-ads:21.2.0@aar" level="project" />
@@ -100,56 +82,45 @@
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-common:20.1.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-tasks:18.0.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-measurement-connector:18.0.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-stats:17.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-ads-lite:21.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-ads-base:21.2.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.ump:user-messaging-platform:2.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-ads-identifier:18.0.1@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-ads-base:21.2.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-measurement-sdk-api:20.1.2@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-measurement-base:20.1.2@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-basement:18.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.fragment:fragment:1.3.1@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.appcompat:appcompat-resources:1.2.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.legacy:legacy-support-core-ui:1.0.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.drawerlayout:drawerlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.slidingpanelayout:slidingpanelayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.customview:customview:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-components:17.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.browser:browser:1.4.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.github.bumptech.glide:gifdecoder:4.13.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.squareup.picasso:picasso:2.71828@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.exifinterface:exifinterface:1.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.activity:activity:1.2.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.work:work-runtime:2.7.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.3.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.firebaseui:firebase-ui-common:5.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.swiperefreshlayout:swiperefreshlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.asynclayoutinflater:asynclayoutinflater:1.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.yodo1.mas.mediation:applovin:4.8.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.yodo1.mas.mediation:mytarget:4.8.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.exoplayer:exoplayer:2.17.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.exoplayer:exoplayer-ui:2.17.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.media:media:1.4.3@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.dynamicanimation:dynamicanimation:1.0.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.legacy:legacy-support-core-utils:1.0.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.1.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.transition:transition:1.2.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.vectordrawable:vectordrawable-animated:1.1.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.vectordrawable:vectordrawable:1.1.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.slidingpanelayout:slidingpanelayout:1.0.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.customview:customview:1.0.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.browser:browser:1.4.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.activity:activity:1.2.1@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.swiperefreshlayout:swiperefreshlayout:1.0.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.asynclayoutinflater:asynclayoutinflater:1.0.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.core:core:1.7.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.firebaseui:firebase-ui-common:5.0.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.3.1@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-components:17.0.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.1@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.github.bumptech.glide:gifdecoder:4.13.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.squareup.picasso:picasso:2.71828@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.exifinterface:exifinterface:1.2.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.work:work-runtime:2.7.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.1.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.3.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.3.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.savedstate:savedstate:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.core:core:1.6.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.3.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.documentfile:documentfile:1.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.print:print:1.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.interpolator:interpolator:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.3.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.savedstate:savedstate:1.1.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.arch.core:core-runtime:2.1.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.yodo1.mas.mediation:tapjoy:4.8.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.tapjoy:tapjoy-android-sdk:12.10.0@aar" level="project" />
@@ -157,21 +128,61 @@
     <orderEntry type="library" scope="TEST" name="Gradle: com.pangle.global:ads-sdk:4.7.0.5@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.pangle.global:crash_monitor:1.3.8.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.test.espresso:espresso-idling-resource:3.3.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.annotation:annotation-experimental:1.1.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.exoplayer:exoplayer-core:2.17.1@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.exoplayer:exoplayer-common:2.17.1@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.tracing:tracing:1.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.constraintlayout:constraintlayout:2.1.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.play:core:1.10.2@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: de.hdodenhof:circleimageview:3.1.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.github.denzcoskun:ImageSlideshow:0.1.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.core:core-splashscreen:1.0.0-beta02@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.android.volley:volley:1.2.1@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.startup:startup-runtime:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.annotation:annotation-experimental:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.tracing:tracing:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.yodo1.mas.mediation:fyber:4.8.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.yodo1.mas.mediation:ironsource:4.8.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.yodo1.mas.mediation:facebook:4.8.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.yodo1.mas.mediation:unityads:4.8.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.yodo1.mas.mediation:vungle:4.8.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.yodo1.mas.mediation:yodo1:4.8.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.exoplayer:exoplayer-core:2.17.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.exoplayer:exoplayer-common:2.17.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.applovin.mediation:google-adapter:21.2.0.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.applovin.mediation:google-ad-manager-adapter:21.2.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.ironsource.adapters:admobadapter:4.3.30@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.applovin:applovin-sdk:11.5.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.ads.mediation:applovin:11.4.6.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.ironsource.adapters:applovinadapter:4.3.33@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.ads.mediation:fyber:8.2.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.applovin.mediation:fyber-adapter:8.2.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.fyber:marketplace-sdk:8.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.ironsource.adapters:fyberadapter:4.3.22@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.ironsource.sdk:mediationsdk:7.2.4.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.ads.mediation:ironsource:7.2.3.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.applovin.mediation:ironsource-adapter:7.2.4.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.yandex.android:mobileads:5.3.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.applovin.mediation:yandex-adapter:5.3.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.facebook.android:audience-network-sdk:6.11.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.ads.mediation:facebook:6.11.0.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.applovin.mediation:facebook-adapter:6.11.0.5@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.ironsource.adapters:facebookadapter:4.3.37@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.ads.mediation:inmobi:10.0.7.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.applovin.mediation:inmobi-adapter:10.0.7.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.ironsource.adapters:inmobiadapter:4.3.14@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.my.target:mytarget-sdk:5.15.5@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.ads.mediation:mytarget:5.15.4.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.applovin.mediation:mytarget-adapter:5.15.5.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.ironsource.adapters:mytargetadapter:4.1.14@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.applovin.mediation:bytedance-adapter:4.7.0.5.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.ironsource.adapters:pangleadapter:4.3.14@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.ads.mediation:tapjoy:12.10.0.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.applovin.mediation:tapjoy-adapter:12.10.0.2@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.ironsource.adapters:tapjoyadapter:4.1.21@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.unity3d.ads:unity-ads:4.4.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.ads.mediation:unity:4.4.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.applovin.mediation:unityads-adapter:4.4.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.ironsource.adapters:unityadsadapter:4.3.22@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.vungle:publisher-sdk-android:6.12.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.ads.mediation:vungle:6.12.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.applovin.mediation:vungle-adapter:6.12.0.2@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.ironsource.adapters:vungleadapter:4.3.18@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.exoplayer:exoplayer-database:2.17.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.exoplayer:exoplayer-datasource:2.17.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.exoplayer:exoplayer-decoder:2.17.1@aar" level="project" />
@@ -180,52 +191,39 @@
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.exoplayer:exoplayer-hls:2.17.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.exoplayer:exoplayer-rtsp:2.17.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.exoplayer:exoplayer-smoothstreaming:2.17.1@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.google.ads.mediation:applovin:11.4.6.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.ironsource.adapters:applovinadapter:4.3.33@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.yodo1.mas.mediation:fyber:4.8.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.google.ads.mediation:fyber:8.2.0.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.applovin.mediation:fyber-adapter:8.2.0.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.fyber:marketplace-sdk:8.2.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.fyber.omsdk:om-sdk:1.3.30@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.ironsource.adapters:fyberadapter:4.3.22@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.yodo1.mas.mediation:ironsource:4.8.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.ironsource.sdk:mediationsdk:7.2.4.1@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.google.ads.mediation:ironsource:7.2.3.1.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.applovin.mediation:ironsource-adapter:7.2.4.1.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.yandex.android:mobileads:5.3.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.android.installreferrer:installreferrer:2.2@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.applovin.mediation:yandex-adapter:5.3.0.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.yodo1.mas.mediation:facebook:4.8.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.facebook.android:audience-network-sdk:6.11.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.google.ads.mediation:facebook:6.11.0.1@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.applovin.mediation:facebook-adapter:6.11.0.5@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.ironsource.adapters:facebookadapter:4.3.37@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.inmobi.omsdk:inmobi-omsdk:1.3.17.1@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.google.ads.mediation:inmobi:10.0.7.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.applovin.mediation:inmobi-adapter:10.0.7.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.ironsource.adapters:inmobiadapter:4.3.14@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.my.target:mytarget-sdk:5.15.5@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.google.ads.mediation:mytarget:5.15.4.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.applovin.mediation:mytarget-adapter:5.15.5.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.ironsource.adapters:mytargetadapter:4.1.14@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.pangle.global:encryptor:0.0.9-rc.2-private@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.pangle.global:metasec_pgl:4.3.7-alpha.5-Pgl@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.applovin.mediation:bytedance-adapter:4.7.0.5.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.ironsource.adapters:pangleadapter:4.3.14@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.google.ads.mediation:tapjoy:12.10.0.1@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.applovin.mediation:tapjoy-adapter:12.10.0.2@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.ironsource.adapters:tapjoyadapter:4.1.21@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.yodo1.mas.mediation:unityads:4.8.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.unity3d.ads:unity-ads:4.4.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.google.ads.mediation:unity:4.4.0.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.applovin.mediation:unityads-adapter:4.4.0.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.ironsource.adapters:unityadsadapter:4.3.22@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.yodo1.mas.mediation:vungle:4.8.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.vungle:publisher-sdk-android:6.12.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.google.ads.mediation:vungle:6.12.0.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.applovin.mediation:vungle-adapter:6.12.0.2@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.ironsource.adapters:vungleadapter:4.3.18@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.yodo1.mas.mediation:yodo1:4.8.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.pangle.global:encryptor:0.0.9-rc.2-private@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.startup:startup-runtime:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: C./Users/Alok/AndroidStudioProjects/MObiGPK1/app/libs/YouTubeAndroidPlayerApi.jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: junit:junit:4.12" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-integration:1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-library:1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-common:2.3.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.collection:collection:1.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.arch.core:core-common:2.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.annotation:annotation:1.3.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.squareup:javawriter:2.1.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: javax.inject:javax.inject:1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.code.findbugs:jsr305:2.0.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.github.bumptech.glide:disklrucache:4.13.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.github.bumptech.glide:annotations:4.13.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.squareup.okhttp3:okhttp:4.10.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.squareup.okio:okio-jvm:3.0.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.31" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.5.31" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.6.20" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-annotations:16.0.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.guava:guava:31.0.1-android" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.6.20" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.code.gson:gson:2.8.6" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.github.anrwatchdog:anrwatchdog:1.4.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.guava:failureaccess:1.0.1" level="project" />
   </component>
   <component name="TestModuleProperties" production-module="MObi_GPK1.app.main" />
 </module>

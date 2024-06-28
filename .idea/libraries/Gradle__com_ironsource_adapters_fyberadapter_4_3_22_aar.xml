@@ -1,9 +1,9 @@
 <component name="libraryTable">
-  <library name="Gradle: com.ironsource.adapters:fyberadapter:4.3.22@aar">
+  <library name="Gradle: com.ironsource.adapters:fyberadapter:4.3.22@aar" external-system-id="GRADLE">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/0a83277f83498d5b9ca16c265442a8fa/transformed/jetified-fyberadapter-4.3.22/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0a83277f83498d5b9ca16c265442a8fa/transformed/jetified-fyberadapter-4.3.22/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0a83277f83498d5b9ca16c265442a8fa/transformed/jetified-fyberadapter-4.3.22/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fed53e8814608f9681420123b068b34d/transformed/jetified-fyberadapter-4.3.22/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/fed53e8814608f9681420123b068b34d/transformed/jetified-fyberadapter-4.3.22/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fed53e8814608f9681420123b068b34d/transformed/jetified-fyberadapter-4.3.22/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

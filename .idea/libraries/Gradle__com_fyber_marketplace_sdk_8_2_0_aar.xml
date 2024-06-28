@@ -1,12 +1,12 @@
 <component name="libraryTable">
-  <library name="Gradle: com.fyber:marketplace-sdk:8.2.0@aar">
+  <library name="Gradle: com.fyber:marketplace-sdk:8.2.0@aar" external-system-id="GRADLE">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c9b050175bff48ac2404625cbc83c39c/transformed/jetified-marketplace-sdk-8.2.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8cf37c410ac62007dd17c210a567129d/transformed/jetified-marketplace-sdk-8.2.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c9b050175bff48ac2404625cbc83c39c/transformed/jetified-marketplace-sdk-8.2.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c9b050175bff48ac2404625cbc83c39c/transformed/jetified-marketplace-sdk-8.2.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c9b050175bff48ac2404625cbc83c39c/transformed/jetified-marketplace-sdk-8.2.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8cf37c410ac62007dd17c210a567129d/transformed/jetified-marketplace-sdk-8.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8cf37c410ac62007dd17c210a567129d/transformed/jetified-marketplace-sdk-8.2.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8cf37c410ac62007dd17c210a567129d/transformed/jetified-marketplace-sdk-8.2.0/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fyber/marketplace-sdk/8.2.0/cf9341670ef28f25f9b1457d08813b82e916a09e/marketplace-sdk-8.2.0-javadoc.jar!/" />

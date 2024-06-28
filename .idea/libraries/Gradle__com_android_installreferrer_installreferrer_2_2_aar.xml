@@ -1,9 +1,8 @@
 <component name="libraryTable">
-  <library name="Gradle: com.android.installreferrer:installreferrer:2.2@aar">
+  <library name="Gradle: com.android.installreferrer:installreferrer:2.2@aar" external-system-id="GRADLE">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/68d8559c0ed1f0b9d8c931650ebd32d1/transformed/jetified-installreferrer-2.2/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/68d8559c0ed1f0b9d8c931650ebd32d1/transformed/jetified-installreferrer-2.2/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/68d8559c0ed1f0b9d8c931650ebd32d1/transformed/jetified-installreferrer-2.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/4f68532a8c83a7220e5cfcae0004d7de/transformed/jetified-installreferrer-2.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4f68532a8c83a7220e5cfcae0004d7de/transformed/jetified-installreferrer-2.2/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

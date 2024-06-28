@@ -1,12 +1,12 @@
 <component name="libraryTable">
-  <library name="Gradle: com.google.android.play:core:1.10.2@aar">
+  <library name="Gradle: com.google.android.play:core:1.10.2@aar" external-system-id="GRADLE">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ce5075024c6c08de1c064fc05f45d895/transformed/jetified-core-1.10.2/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f06cd9e43664a86e982796e0a4faf05d/transformed/jetified-core-1.10.2/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ce5075024c6c08de1c064fc05f45d895/transformed/jetified-core-1.10.2/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ce5075024c6c08de1c064fc05f45d895/transformed/jetified-core-1.10.2/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ce5075024c6c08de1c064fc05f45d895/transformed/jetified-core-1.10.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f06cd9e43664a86e982796e0a4faf05d/transformed/jetified-core-1.10.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f06cd9e43664a86e982796e0a4faf05d/transformed/jetified-core-1.10.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f06cd9e43664a86e982796e0a4faf05d/transformed/jetified-core-1.10.2/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

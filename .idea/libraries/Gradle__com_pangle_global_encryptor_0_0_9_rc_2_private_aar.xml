@@ -1,9 +1,9 @@
 <component name="libraryTable">
-  <library name="Gradle: com.pangle.global:encryptor:0.0.9-rc.2-private@aar">
+  <library name="Gradle: com.pangle.global:encryptor:0.0.9-rc.2-private@aar" external-system-id="GRADLE">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/030ed22ac20811d219553136c6add6cf/transformed/jetified-encryptor-0.0.9-rc.2-private/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/030ed22ac20811d219553136c6add6cf/transformed/jetified-encryptor-0.0.9-rc.2-private/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/030ed22ac20811d219553136c6add6cf/transformed/jetified-encryptor-0.0.9-rc.2-private/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/bb118090fecc11204d85ff4a400c236c/transformed/jetified-encryptor-0.0.9-rc.2-private/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bb118090fecc11204d85ff4a400c236c/transformed/jetified-encryptor-0.0.9-rc.2-private/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bb118090fecc11204d85ff4a400c236c/transformed/jetified-encryptor-0.0.9-rc.2-private/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

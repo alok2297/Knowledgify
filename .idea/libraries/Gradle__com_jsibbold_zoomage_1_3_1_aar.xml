@@ -1,12 +1,12 @@
 <component name="libraryTable">
-  <library name="Gradle: com.jsibbold:zoomage:1.3.1@aar">
+  <library name="Gradle: com.jsibbold:zoomage:1.3.1@aar" external-system-id="GRADLE">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/03190b7fd89cd172156793c55dbef188/transformed/jetified-zoomage-1.3.1/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6431f8780b183cb23faf465abc6fee39/transformed/jetified-zoomage-1.3.1/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/03190b7fd89cd172156793c55dbef188/transformed/jetified-zoomage-1.3.1/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/03190b7fd89cd172156793c55dbef188/transformed/jetified-zoomage-1.3.1/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/03190b7fd89cd172156793c55dbef188/transformed/jetified-zoomage-1.3.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6431f8780b183cb23faf465abc6fee39/transformed/jetified-zoomage-1.3.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6431f8780b183cb23faf465abc6fee39/transformed/jetified-zoomage-1.3.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6431f8780b183cb23faf465abc6fee39/transformed/jetified-zoomage-1.3.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jsibbold/zoomage/1.3.1/ad5985ef2e69883c878829405986c13b89bda7a9/zoomage-1.3.1-javadoc.jar!/" />

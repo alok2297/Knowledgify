@@ -1,12 +1,11 @@
 <component name="libraryTable">
-  <library name="Gradle: com.google.ads.mediation:fyber:8.2.0.0@aar">
+  <library name="Gradle: com.google.ads.mediation:fyber:8.2.0.0@aar" external-system-id="GRADLE">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f889ae7f92bca911317c4a9ec982bcf5/transformed/jetified-fyber-8.2.0.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/4339b09becb9b278b4ef3b523a6be475/transformed/jetified-fyber-8.2.0.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f889ae7f92bca911317c4a9ec982bcf5/transformed/jetified-fyber-8.2.0.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f889ae7f92bca911317c4a9ec982bcf5/transformed/jetified-fyber-8.2.0.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f889ae7f92bca911317c4a9ec982bcf5/transformed/jetified-fyber-8.2.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4339b09becb9b278b4ef3b523a6be475/transformed/jetified-fyber-8.2.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/4339b09becb9b278b4ef3b523a6be475/transformed/jetified-fyber-8.2.0.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

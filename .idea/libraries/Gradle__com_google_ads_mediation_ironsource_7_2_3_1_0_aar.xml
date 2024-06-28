@@ -1,12 +1,11 @@
 <component name="libraryTable">
-  <library name="Gradle: com.google.ads.mediation:ironsource:7.2.3.1.0@aar">
+  <library name="Gradle: com.google.ads.mediation:ironsource:7.2.3.1.0@aar" external-system-id="GRADLE">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/0cb77c11e62adb98fa4ca60041c59780/transformed/jetified-ironsource-7.2.3.1.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ed7493afd55e92e613719f4641e0af1c/transformed/jetified-ironsource-7.2.3.1.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/0cb77c11e62adb98fa4ca60041c59780/transformed/jetified-ironsource-7.2.3.1.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0cb77c11e62adb98fa4ca60041c59780/transformed/jetified-ironsource-7.2.3.1.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0cb77c11e62adb98fa4ca60041c59780/transformed/jetified-ironsource-7.2.3.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ed7493afd55e92e613719f4641e0af1c/transformed/jetified-ironsource-7.2.3.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ed7493afd55e92e613719f4641e0af1c/transformed/jetified-ironsource-7.2.3.1.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
